@@ -1,0 +1,2 @@
+# Credit-card-customer-churn-prediction
+To retain customers, companies are developing sophisticated churn management strategies. These strategies typically ranking customers based on their estimated propensity to churn. The implicit assumption is that this process would maximize firm's profits by targeting customers who are most likely to churn. We propose a predictive model to understand which value customers are likely to churn and should be retained.
